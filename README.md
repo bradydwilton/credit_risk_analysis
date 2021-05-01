@@ -6,12 +6,6 @@ The following analysis tests several oversamping, undersampling, and combination
 
 ## Results
 
-
-### Definitions Included in Results:
-* Balanced Accuracy Score
-* Precision
-* Recall (Sensitivity)
-
 ### Random Oversampling and Logistic Regression
 * Accuracy Score: __0.598__
 * Precision: __0.99__
@@ -59,3 +53,7 @@ The following analysis tests several oversamping, undersampling, and combination
 * F1 Score: __0.97__
 * Classification Report:
 <img src='https://github.com/bradydwilton/credit_risk_analysis/blob/main/images/eec_classification_report.png'>
+
+## Summary
+
+For the six machine learning models that were tested for this credit risk analysis, five had accuracy scores below 0.67. Of those five, only the Balanced Random Forest Classifier had an F1 score above 0.8. There was one model, however, which had a much higher accuracy score of _0.9_. This was the Easy Ensemble Classifier model, which had an F1 score of 0.97. For these reasons, the Easy Ensemble Classifier model is the clear choice for predicting credit risk for LendingClub and has the sensitivity and accuracy needed to be recommended for the job.
