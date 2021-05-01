@@ -18,7 +18,7 @@ The following analysis tests several oversamping, undersampling, and combination
 * Recall: __0.62__
 * F1 Score: __0.76__
 * Classification Report:
-<img src='ros_classification_report.png'>
+<img src='https://github.com/bradydwilton/credit_risk_analysis/blob/main/images/ros_classification_report.png'>
 
 ### SMOTE Oversampling and Logistic Regression
 * Accuracy Score: __0.628__
@@ -26,7 +26,7 @@ The following analysis tests several oversamping, undersampling, and combination
 * Recall: __0.65__
 * F1 Score: __0.78__
 * Classification Report:
-<img src='smote_classification_report.png'>
+<img src='https://github.com/bradydwilton/credit_risk_analysis/blob/main/images/smote_classification_report.png'>
 
 ### Cluster Centroids Undersampling and Logistic Regression
 * Accuracy Score: __0.556__
@@ -34,7 +34,7 @@ The following analysis tests several oversamping, undersampling, and combination
 * Recall: __0.42__
 * F1 Score: __0.59__
 * Classification Report:
-<img src='cc_classification_report.png'>
+<img src='https://github.com/bradydwilton/credit_risk_analysis/blob/main/images/cc_classification_report.png'>
 
 ### SMOTEENN Combination Sampling and Logistic Regression
 * Accuracy Score: __0.629__
@@ -42,7 +42,7 @@ The following analysis tests several oversamping, undersampling, and combination
 * Recall: __0.59__
 * F1 Score: __0.74__
 * Classification Report:
-<img src='smoteenn_classification_report.png'>
+<img src='https://github.com/bradydwilton/credit_risk_analysis/blob/main/images/smoteenn_classification_report.png'>
 
 ### Balanced Random Forest Classifier
 * Accuracy Score: __0.661__
@@ -50,7 +50,7 @@ The following analysis tests several oversamping, undersampling, and combination
 * Recall: __1.00__
 * F1 Score: __1.00__
 * Classification Report:
-<img src='rf_classification_report.png'>
+<img src='https://github.com/bradydwilton/credit_risk_analysis/blob/main/images/rf_classification_report.png'>
 
 ### Easy Ensemble AdaBoost Classifier
 * Accuracy Score: __0.901__
@@ -58,4 +58,4 @@ The following analysis tests several oversamping, undersampling, and combination
 * Recall: __0.95__
 * F1 Score: __0.97__
 * Classification Report:
-<img src='eec_classification_report.png'>
+<img src='https://github.com/bradydwilton/credit_risk_analysis/blob/main/images/eec_classification_report.png'>
